@@ -20,6 +20,14 @@ Este proyecto demuestra un proceso completo de **ELT (Extract, Load, Transform)*
    - Eliminación de duplicados (`SELECT DISTINCT`)
 5. **Carga en la tabla final limpia** dentro del esquema `clean`
 
+---
+
+### 🧾 Vista final de la tabla limpia
+
+Esta imagen muestra la estructura y contenido final de la tabla `clean.Marketing`, con los tipos de datos bien definidos:
+
+![Vista de la tabla limpia](estructura_clean.png)
+
 ## 📂 Archivos
 
 - `marketing_elt.sql`: Script completo que ejecuta el proceso ELT paso a paso.
@@ -33,5 +41,4 @@ Este proyecto demuestra un proceso completo de **ELT (Extract, Load, Transform)*
 ## 🙋‍♂️ Autor
 
 Waldir Ramos – Data Analyst & Student of Economics  
-Este proyecto fue desarrollado como parte del proceso de selección en Llamabara Tech.
 🔗 [Mi perfil de LinkedIn](https://www.linkedin.com/in/waldirframossoto/) 
