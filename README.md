@@ -26,7 +26,7 @@ Este proyecto demuestra un proceso completo de **ELT (Extract, Load, Transform)*
 
 Esta imagen muestra la estructura y contenido final de la tabla `clean.Marketing`, con los tipos de datos bien definidos:
 
-![Vista de la tabla limpia](estructura_clean.png)
+![Vista de la tabla limpia](estructura_clean.PNG)
 
 ## 📂 Archivos
 
@@ -40,5 +40,6 @@ Esta imagen muestra la estructura y contenido final de la tabla `clean.Marketing
 
 ## 🙋‍♂️ Autor
 
-Waldir Ramos – Data Analyst & Student of Economics  
+Waldir Ramos – Junior Data Analyst & Student of Economics  
+📩 Contacto: waldir.ramossoto@gmail.com
 🔗 [Mi perfil de LinkedIn](https://www.linkedin.com/in/waldirframossoto/) 
